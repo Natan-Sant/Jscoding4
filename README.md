@@ -1,2 +1,2 @@
 # Jscoding4
-Exercícios de Java Script (if, else e if else)
+Exercícios de Java Script (Functions)
